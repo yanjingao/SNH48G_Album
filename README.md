@@ -11,7 +11,7 @@ SNH48G相册APP，提供海量图片和音乐，按成员分类图片，目前�
 ### 1. APP下载
 “SNH48G相册.apk”即为APP。
 ### 2. 初始图库来源
-https://github.com/yanjingao/SNH48G_weibo_album
+https://github.com/yanjingao/SNH48G_weibo_album中去除不含人脸图库
 ### 3. 志愿者列表
 #### （1）SNH48-易嘉爱： 眼镜獒（项目作者）
 
